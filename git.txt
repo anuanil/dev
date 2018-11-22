@@ -1,7 +1,7 @@
 welcome to git
-1.txt
-222.txt
-3.txt
-4.txt
-
- 
+1
+2
+3
+4
+5
+6
